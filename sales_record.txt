@@ -1,0 +1,4 @@
+dc9cc473,lapluma,350.24
+9dd7f21b,lapluma,22.0
+9b3992ae,yuki,25.0
+79c79f5a,yuki,15.0
